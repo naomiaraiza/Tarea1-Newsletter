@@ -23,6 +23,7 @@ Este reto te ayudará a practicar tus conocimientos básicos de diseño web, inc
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/naomiaraiza/Tarea1-Newsletter.git
 Deploy: [LINK](http://yomidev.github.io/newsletter/)
+link: https://naomiaraiza.github.io/Tarea1-Newsletter/ 
 ---
 
 ## 📝 Reflexión

@@ -21,9 +21,8 @@ Este reto te ayudará a practicar tus conocimientos básicos de diseño web, inc
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://github.com/naomiaraiza/Tarea3-ContactPage.git  
+Repositorio en GitHub: https://github.com/naomiaraiza/Tarea1-Newsletter.git
 Deploy: [LINK](http://yomidev.github.io/newsletter/)
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
